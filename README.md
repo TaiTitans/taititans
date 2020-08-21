@@ -49,5 +49,5 @@
 > 🔑 0 Private Repository 
  > 
 **I'm a Night 🦉** 
-<div class="tenor-gif-embed" data-postid="17592860" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/dragon-ball-anime-goku-son-goku-happy-gif-17592860"></script>
+<div style="width:100%;height:0;padding-bottom:61%;position:relative;"><iframe src="https://giphy.com/embed/52y2RIvucd3j2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dragon-ball-z-52y2RIvucd3j2">via GIPHY</a></p>
 <!--END_SECTION:waka-->
