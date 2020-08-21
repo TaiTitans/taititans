@@ -49,5 +49,5 @@
 > 🔑 0 Private Repository 
  > 
 **I'm a Night 🦉** 
-<div class="tenor-gif-embed" data-postid="17592860" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/dragon-ball-anime-goku-son-goku-happy-gif-17592860">Dragon Ball Anime GIF</a> from <a href="https://tenor.com/search/dragonball-gifs">Dragonball GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="17592860" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/dragon-ball-anime-goku-son-goku-happy-gif-17592860"></script>
 <!--END_SECTION:waka-->
