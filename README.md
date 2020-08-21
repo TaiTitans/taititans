@@ -5,7 +5,7 @@
 - I'm currently studying at [CTU](https://ctu.edu.vn/)
 - I'm currently learning everything 🙄
 - ⚡ Fun fact: badboy not badchoice .
-
+- Email : taititansofficial@gmail.com.
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme.hiiamlongdz.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX1e2VSJFudND)
 
@@ -49,43 +49,5 @@
 > 🔑 0 Private Repository 
  > 
 **I'm a Night 🦉** 
-
-```text
-🌞 Morning    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-🌆 Daytime    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-🌃 Evening    21 commits     █████████████░░░░░░░░░░░░   53.85% 
-🌙 Night      4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.26%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Tuesday      3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Wednesday    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-Thursday     17 commits     ███████████░░░░░░░░░░░░░░   43.59% 
-Friday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Saturday     10 commits     ██████░░░░░░░░░░░░░░░░░░░   25.64% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      30 hr               ██████████████████████░░░   90% 
-JAVA                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
-Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
-
-🔥 Editors: 
-C++                      1 hr                ████████████████░░░░░░░░░   64.33% 
-VS Code                  33 mins             █████████░░░░░░░░░░░░░░░░   35.67%
-
-```
-
-//copyright from HiiamLongdz
+<div class="tenor-gif-embed" data-postid="17592860" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/dragon-ball-anime-goku-son-goku-happy-gif-17592860">Dragon Ball Anime GIF</a> from <a href="https://tenor.com/search/dragonball-gifs">Dragonball GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--END_SECTION:waka-->
