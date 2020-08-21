@@ -49,5 +49,5 @@
 > 🔑 0 Private Repository 
  > 
 **I'm a Night 🦉** 
-<div style="width:100%;height:0;padding-bottom:61%;position:relative;"><iframe src="https://giphy.com/embed/52y2RIvucd3j2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dragon-ball-z-52y2RIvucd3j2">via GIPHY</a></p>
+https://3.bp.blogspot.com/-B1BSO2LiEKw/Vo6WQ9OYIaI/AAAAAAAABE4/Uo31FiX05s8/s1600/Dragon%2BBall%2BZ%2BAMV%2B-%2BGoku%2Bvs.%2BGolden%2BFrieza%2B%25283%2529.gif
 <!--END_SECTION:waka-->
