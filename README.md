@@ -1,5 +1,4 @@
-### Hi there 👋
-### Hi There, I'm Tai Titans
+### Hi there 👋, I'm Tai Titans
 
 ### I'm a Student!
 - I'm currently studying at [CTU](https://ctu.edu.vn/)
