@@ -3,7 +3,7 @@
 ### I'm a Student!
 - I'm currently studying at [CTU](https://ctu.edu.vn/)
 - I'm currently learning everything 🙄
-- ⚡ Fun fact: badboy not badchoice .
+- ⚡ Fun fact: Keep Calm and Studying.
 - Email : taititansofficial@gmail.com.
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme.hiiamlongdz.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX1e2VSJFudND)
