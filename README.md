@@ -37,15 +37,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2020
+> 🏆 3 Contributions in the Year 2021
  > 
-> 📦 0 Bytes Used in Github's Storage 
+> 📦 100 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 0 Public Repositories
+> 📜 5 Public Repositories
  > 
-> 🔑 0 Private Repository 
+> 🔑 1 Private Repository 
  > 
 **I'm a Night 🦉** 
 <!--END_SECTION:waka-->
