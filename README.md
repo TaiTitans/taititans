@@ -5,8 +5,6 @@
 - I'm currently learning everything 🙄
 - ⚡ Fun fact: Keep Calm and Studying.
 - Email : taititansofficial@gmail.com.
-### Spotify Playing 🎧
-[<img src="https://spotify-readme.hiiamlongdz.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX1e2VSJFudND)
 
 
 ### Contact with me
@@ -37,7 +35,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 3 Contributions in the Year 2021
+> 🏆 1 Contributions in the Year 2022
  > 
 > 📦 100 Bytes Used in Github's Storage 
  > 
