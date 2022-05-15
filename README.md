@@ -2,7 +2,7 @@
 
 ### I'm a Student!
 - I'm currently studying at [CTU](https://ctu.edu.vn/)
-- I'm currently learning everything 🙄
+- Currently a Computer Science student 🙄
 - ⚡ Fun fact: Keep Calm and Studying.
 - Email : taititansofficial@gmail.com.
 
