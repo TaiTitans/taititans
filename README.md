@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Tai Titans
 
+
+<iframe src="https://giphy.com/embed/o0vwzuFwCGAFO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO">via GIPHY</a></p>
+
 ### I'm a Student!
 - I'm currently studying at [CTU](https://ctu.edu.vn/)
 - Currently a Computer Science student 🙄
