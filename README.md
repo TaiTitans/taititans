@@ -38,7 +38,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 1 Contributions in the Year 2023
  > 
 > 📦 100 Bytes Used in Github's Storage 
  > 
@@ -46,7 +46,7 @@
  > 
 > 📜 5 Public Repositories
  > 
-> 🔑 1 Private Repository 
+> 🔑 5 Private Repository 
  > 
 **I'm a Night 🦉** 
 <!--END_SECTION:waka-->
