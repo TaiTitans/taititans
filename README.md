@@ -26,7 +26,6 @@
 
 <br />
 
-![view](https://komarev.com/ghpvc/?username=taititans)
 
 ![github-start](https://github-readme-stats.vercel.app/api?username=taititans&count_private=true&show_icons=true)
 
