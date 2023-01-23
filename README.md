@@ -30,7 +30,7 @@
 [![My github stats](https://github-readme-stats.vercel.app/api?username=TaiTitans&show_icons=true)](https://github-readme-stats.vercel.app/api?username=TaiTitans&show_icons=true)
 
 ### Top Languages Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaiTitans&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=TaiTitans&layout=compact)
+[![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=TaiTitans&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=TaiTitans&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=TaiTitans&layout=compact)
 
 ### Schedules
 <!--START_SECTION:waka-->
