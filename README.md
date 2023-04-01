@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Tai Titans
 
 
-![](https://github.com/TaiTitans/taititans/blob/master/GIF.gif)
+![TaiTitans](https://user-images.githubusercontent.com/70010376/229299575-5258136d-569b-4690-acc1-cf519a55fce3.png)
+
 
 ### I'm a Student!
 - I'm currently studying at [CTU](https://ctu.edu.vn/)
