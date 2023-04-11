@@ -33,6 +33,9 @@
 
 ### Schedules
 <!--START_SECTION:waka-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taititans&layout=compact)]
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
 
 **🐱 My Github Data** 
