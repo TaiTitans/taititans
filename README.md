@@ -29,7 +29,7 @@
 
 
 
-![github-start](https://github-readme-stats.vercel.app/api?username=taititans&count_private=true&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=taititans&show_icons=true&theme=tokyonight)
 
 ### Schedules
 <!--START_SECTION:waka-->
