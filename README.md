@@ -36,19 +36,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taititans&langs_count=8)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-250-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 1 Contributions in the Year 2023
  > 
-> 📦 100 Bytes Used in Github's Storage 
+> 📦 500 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories
+> 📜 14 Public Repositories
  > 
-> 🔑 5 Private Repository 
+> 🔑 3 Private Repository 
  > 
 **I'm a Night 🦉** 
 <!--END_SECTION:waka-->
