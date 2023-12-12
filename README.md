@@ -19,9 +19,12 @@
 <h4 align="left">My info :</h4>
 
 ###
-
-<h5 align="left">I'm currently studying at CTU<br>Currently a Computer Science student 🙄<br>Email : taititansofficial@gmail.com.<br>"𝘓𝘪𝘷𝘦 𝘢 𝘭𝘪𝘧𝘦 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘳𝘦𝘮𝘦𝘮𝘣𝘦𝘳"</h5>
-
+```
+I'm currently studying at CTU
+Currently a Computer Science student 🙄
+Email : taititansofficial@gmail.com.
+"𝘓𝘪𝘷𝘦 𝘢 𝘭𝘪𝘧𝘦 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘳𝘦𝘮𝘦𝘮𝘣𝘦𝘳"
+```
 ###
 
 <div align="left">
@@ -101,7 +104,7 @@
 </div>
 
 ###
-
-<h5 align="left">I'm a Night 🦉</h5>
-
+```
+I'm a Night 🦉
+```
 ###
