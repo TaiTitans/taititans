@@ -40,15 +40,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 1 Contributions in the Year 2023
+> 🏆 6 Contributions in the Year 2023
  > 
-> 📦 500 Bytes Used in Github's Storage 
+> 📦 5000 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories
+> 📜 6 Public Repositories
  > 
-> 🔑 3 Private Repository 
+> 🔑 2 Private Repository 
  > 
 **I'm a Night 🦉** 
 <!--END_SECTION:waka-->
