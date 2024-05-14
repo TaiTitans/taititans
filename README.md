@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Fullstack Developer</h4>
+<h4 align="center">Backend Developer</h4>
 
 ###
 
