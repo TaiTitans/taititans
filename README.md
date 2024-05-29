@@ -1,18 +1,13 @@
-<h1 align="center">Welcome to my Github</h1>
+<h2 align="left">Welcome to my Github 😊</h1>
 
 ###
 
-<h2 align="center">I'm Tai Titans</h2>
+<h2 align="left">I'm Tai Titans</h2>
 
 ###
 
 <h4 align="center">Backend Developer</h4>
 
-###
-
-<div align="center">
-  <img height="300" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e474c5wychu9zarlglod7ey1ni43svhhptwnrrhackv&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
 
 ###
 
@@ -20,7 +15,7 @@
 
 ###
 ```
-I'm currently studying at CTU
+I'm currently Backend Developer
 Currently a Computer Science student 🙄
 Email : taititansofficial@gmail.com.
 "𝘓𝘪𝘷𝘦 𝘢 𝘭𝘪𝘧𝘦 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘳𝘦𝘮𝘦𝘮𝘣𝘦𝘳"
@@ -83,9 +78,6 @@ Email : taititansofficial@gmail.com.
   <img src="https://streak-stats.demolab.com?user=TaiTitans&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/TaiTitans/TaiTitans/output/snake.svg" alt="Snake animation" />
 
 ###
 
