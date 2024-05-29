@@ -90,14 +90,6 @@ Email : taititansofficial@gmail.com.
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31c3zkndqjgumdvcfctyxw3yfpay">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c3zkndqjgumdvcfctyxw3yfpay&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/TaiTitans/count.svg?"  />
 </div>
 
