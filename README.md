@@ -8,7 +8,7 @@
 ###
 ```
 I'm currently Backend Developer
-Currently a Computer Science student 🙄
+Was a student of computer science 🙄
 Email : taititansofficial@gmail.com.
 "𝘓𝘪𝘷𝘦 𝘢 𝘭𝘪𝘧𝘦 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘳𝘦𝘮𝘦𝘮𝘣𝘦𝘳"
 ```
