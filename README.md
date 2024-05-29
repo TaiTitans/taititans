@@ -2,14 +2,6 @@
 
 ###
 
-<h2 align="left">I'm Tai Titans</h2>
-
-###
-
-<h4 align="center">Backend Developer</h4>
-
-
-###
 
 <h4 align="left">My info :</h4>
 
