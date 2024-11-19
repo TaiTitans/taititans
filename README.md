@@ -6,7 +6,7 @@
 
 ###
 ```
-I'm currently Software Engineer
+I'm currently Backend Developer
 Was a student of computer science 🙄
 Email : taititansofficial@gmail.com.
 "𝘓𝘪𝘷𝘦 𝘢 𝘭𝘪𝘧𝘦 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘳𝘦𝘮𝘦𝘮𝘣𝘦𝘳"
