@@ -1,17 +1,24 @@
-## Welcome my Github
+## 🌟 Phan Phat Tai — Backend Developer
 ###
 
 
-<h4 align="left">My info :</h4>
 
-###
-```
-I'm currently Backend Developer
-Was a student of computer science 🙄
-Email : taititansofficial@gmail.com.
-"𝘓𝘪𝘷𝘦 𝘢 𝘭𝘪𝘧𝘦 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘳𝘦𝘮𝘦𝘮𝘣𝘦𝘳"
-```
-###
+
+### 👨‍💻 About Me
+I am a passionate **Backend Developer** with over 1 years of professional experience, dedicated to building high-performance web applications and delivering business-critical systems. Driven and eager-to-learn backend developer with a solid foundation built through academic projects and internship
+experience. Familiar with building Restful APIs using Java and Node.js, working with databases like MySQL, PostgreSQL
+and MongoDB, and implementing authentication. Basic understanding of tools like Docker for deployment and Redis for
+caching. Eager to learn and contribute to backend development projects, with a strong interest in microservices
+architecture and cloud technologies.
+
+🎯 I thrive in environments where efficiency and scalability are key.
+
+💡 I specialize in problem-solving complex system challenges and aligning technology with business goals.
+
+🌍 I continuously explore cutting-edge tools like Spring Boot, Redis, and Docker, while staying rooted in tried-and-true systems like Java Core and Node.js.
+
+💼 My professional mantra: "Being a good programmer means making complex things simple."
+### 📬 Let's Connect
 
 <div align="left">
   <a href="https://www.linkedin.com/in/phanphattai/" target="_blank">
@@ -25,11 +32,11 @@ Email : taititansofficial@gmail.com.
   </a>
 </div>
 
-###
+### 
 
-<h4 align="left">My Skills:</h4>
 
-###
+
+### ✨ My Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -50,9 +57,9 @@ Email : taititansofficial@gmail.com.
 
 ###
 
-<h4 align="left">Stats:</h4>
 
-###
+
+### 🎈 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TaiTitans&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
