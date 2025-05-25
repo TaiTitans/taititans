@@ -15,7 +15,7 @@ architecture and cloud technologies.
 
 💡 I specialize in problem-solving complex system challenges and aligning technology with business goals.
 
-🌍 I continuously explore cutting-edge tools like Spring Boot, Redis, and Docker, while staying rooted in tried-and-true systems like Java Core and Node.js.
+🌍 I continuously explore cutting-edge tools like Spring Boot, Redis, and Docker, while staying rooted in tried-and-true systems like Java Core and Golang.
 
 💼 My professional mantra: "Being a good programmer means making complex things simple."
 ### 📬 Let's Connect
@@ -41,9 +41,9 @@ architecture and cloud technologies.
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="golang logo" />        
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -52,7 +52,7 @@ architecture and cloud technologies.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo" />
 </div>
 
 ###
