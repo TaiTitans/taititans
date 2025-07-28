@@ -70,10 +70,9 @@ architecture and cloud technologies.
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TaiTitans/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/TaiTitans?theme=unicorn&font=Ubuntu%20Mono&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
-###
-![LeetCode Stats](https://leetcard.jacoblin.cool/TaiTitans?theme=unicorn&font=Ubuntu%20Mono&ext=heatmap)
-###
+
+
