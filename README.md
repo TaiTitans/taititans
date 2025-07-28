@@ -75,7 +75,5 @@ architecture and cloud technologies.
 </div>
 
 ###
-```
-I'm a Night 🦉
-```
+![LeetCode Stats](https://leetcard.jacoblin.cool/TaiTitans?theme=unicorn&font=Ubuntu%20Mono&ext=heatmap)
 ###
