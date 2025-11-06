@@ -4,20 +4,16 @@
 
 
 
-### 👨‍💻 About Me
-I am a passionate **Backend Developer** with over 2 years of professional experience, dedicated to building high-performance web applications and delivering business-critical systems. Driven and eager-to-learn backend developer with a solid foundation built through academic projects and internship
-experience. Familiar with building Restful APIs using Java and Golang, working with databases like MySQL, PostgreSQL
-and MongoDB, and implementing authentication. Basic understanding of tools like Docker for deployment and Redis for
-caching. Eager to learn and contribute to backend development projects, with a strong interest in microservices
-architecture and cloud technologies.
+👨‍💻 About Me
 
-🎯 I thrive in environments where efficiency and scalability are key.
+I am a Backend Engineer with strong experience in designing and building scalable, reliable, and maintainable backend systems. Over the past years, I’ve focused on delivering high-performance services, optimizing system workflows, and solving complex architectural problems that support real business growth.
 
-💡 I specialize in problem-solving complex system challenges and aligning technology with business goals.
+I work primarily with Golang and Java, applying clean architecture and domain-driven design principles to ensure long-term scalability. I’m comfortable working across microservices, distributed systems, message streaming, and database design using MySQL, PostgreSQL, Redis, and MongoDB. I also have hands-on experience with containerization and deployment pipelines using Docker and modern DevOps tooling.
 
-🌍 I continuously explore cutting-edge tools like Spring Boot, Redis, and Docker, while staying rooted in tried-and-true systems like Java Core and Golang.
+I thrive in environments where performance, scalability, and system clarity are the priority. I enjoy digging into complex backend challenges, breaking them down into clear solutions, and aligning those solutions with practical product & business needs.
 
-💼 My professional mantra: "Being a good programmer means making complex things simple."
+💡 Professional Mindset:
+“Engineering is not about making things complicated. It’s about making complexity feel simple, predictable, and scalable.”
 ### 📬 Let's Connect
 
 <div align="left">
@@ -27,7 +23,7 @@ architecture and cloud technologies.
   <a href="https://twitter.com/TitansPPT" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/taititans.dev/" target="_blank">
+  <a href="https://www.instagram.com/ppt.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
