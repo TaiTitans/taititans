@@ -5,7 +5,7 @@
 
 
 ### 👨‍💻 About Me
-I am a passionate **Backend Developer** with over 1 years of professional experience, dedicated to building high-performance web applications and delivering business-critical systems. Driven and eager-to-learn backend developer with a solid foundation built through academic projects and internship
+I am a passionate **Backend Developer** with over 2 years of professional experience, dedicated to building high-performance web applications and delivering business-critical systems. Driven and eager-to-learn backend developer with a solid foundation built through academic projects and internship
 experience. Familiar with building Restful APIs using Java and Golang, working with databases like MySQL, PostgreSQL
 and MongoDB, and implementing authentication. Basic understanding of tools like Docker for deployment and Redis for
 caching. Eager to learn and contribute to backend development projects, with a strong interest in microservices
