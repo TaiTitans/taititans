@@ -8,7 +8,7 @@
 
 I am a Backend Engineer with strong experience in designing and building scalable, reliable, and maintainable backend systems. Over the past years, I’ve focused on delivering high-performance services, optimizing system workflows, and solving complex architectural problems that support real business growth.
 
-I work primarily with Golang and Java, applying clean architecture and domain-driven design principles to ensure long-term scalability. I’m comfortable working across microservices, distributed systems, message streaming, and database design using MySQL, PostgreSQL, Redis, and MongoDB. I also have hands-on experience with containerization and deployment pipelines using Docker and modern DevOps tooling.
+I work primarily with Golang, applying clean architecture and domain-driven design principles to ensure long-term scalability. I’m comfortable working across microservices, distributed systems, message streaming, and database design using MySQL, PostgreSQL, Redis, and MongoDB. I also have hands-on experience with containerization and deployment pipelines using Docker and modern DevOps tooling.
 
 I thrive in environments where performance, scalability, and system clarity are the priority. I enjoy digging into complex backend challenges, breaking them down into clear solutions, and aligning those solutions with practical product & business needs.
 
@@ -20,13 +20,6 @@ I thrive in environments where performance, scalability, and system clarity are 
   <a href="https://www.linkedin.com/in/phanphattai/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/TitansPPT" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/ppt.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 ### 
 
@@ -65,10 +58,6 @@ I thrive in environments where performance, scalability, and system clarity are 
 
 
 ###
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/TaiTitans?theme=unicorn&font=Ubuntu%20Mono&ext=heatmap" alt="LeetCode Stats" />
-</p>
 
 
 
