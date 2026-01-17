@@ -6,7 +6,7 @@
 
 👨‍💻 About Me
 
-I am a Backend Engineer with strong experience in designing and building scalable, reliable, and maintainable backend systems. Over the past years, I’ve focused on delivering high-performance services, optimizing system workflows, and solving complex architectural problems that support real business growth.
+I am a Backend Engineer with strong experience in designing and building scalable, reliable, and maintainable backend systems. I’ve focused on delivering high-performance services, optimizing system workflows, and solving complex architectural problems that support real business growth.
 
 I work primarily with Golang, applying clean architecture and domain-driven design principles to ensure long-term scalability. I’m comfortable working across microservices, distributed systems, message streaming, and database design using MySQL, PostgreSQL, Redis, and MongoDB. I also have hands-on experience with containerization and deployment pipelines using Docker and modern DevOps tooling.
 
